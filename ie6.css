@@ -1,0 +1,103 @@
+@charset "utf-8";
+/* CSS Document */
+
+#feeds p
+{
+	padding-top:0;
+}
+
+#searchform
+{
+	margin-top:4px;
+}
+
+#headline, #latest, #the_loop, #comments_template
+{
+	margin-right:0;
+}
+
+#featured
+{
+	margin-left:5px;
+}
+
+#latest
+{
+	margin-top:0;
+}
+
+#sidebar
+{
+	margin-right:5px;
+	margin-left:0;
+}
+
+#bottom .sitem
+{
+	width:312px;
+}
+
+.sitem ul
+{
+	margin-left:16px;
+}
+ 
+.sitem ul li
+{
+	display:block;
+}
+ 
+.sitem ul li a
+{
+	width:100%;
+}
+
+#footer
+{
+	padding-top:7px;
+}
+
+#fbar
+{
+	margin-left:0;
+}
+
+#copyright
+{
+	padding-bottom:0;
+}
+
+#feedburner
+{
+	margin-top:8px;
+}
+
+#feedburner #submit
+{
+	width:65px;
+}
+
+ul#menu li li
+{
+	margin-top:0;
+}
+
+ul#menu li li li
+{
+	padding-left:0;
+}
+
+ul#menu li.sfhover ul ul, ul#menu li.sfhover ul ul ul
+{
+	left: -999em;
+}
+
+ul#menu li.sfhover ul, ul#menu li li.sfhover ul, ul#menu li li li.sfhover ul
+{
+	left: auto;
+}
+
+ul#menu li.sfhover
+{ 
+	position: static;
+}
